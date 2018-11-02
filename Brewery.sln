@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brewery.App", "Brewery.App\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brewery.Domain", "Brewery.Domain\Brewery.Domain.csproj", "{31CDE07E-291C-49A7-A19D-039F81DADC30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brewery.Data", "Brewery.Data\Brewery.Data.csproj", "{94919980-5290-488A-84F5-C7883222413E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{31CDE07E-291C-49A7-A19D-039F81DADC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31CDE07E-291C-49A7-A19D-039F81DADC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31CDE07E-291C-49A7-A19D-039F81DADC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94919980-5290-488A-84F5-C7883222413E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94919980-5290-488A-84F5-C7883222413E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94919980-5290-488A-84F5-C7883222413E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94919980-5290-488A-84F5-C7883222413E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
