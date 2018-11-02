@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Brewery.Data\Brewery.Data.csproj" />
+    <ProjectReference Include="..\Brewery.Domain\Brewery.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
